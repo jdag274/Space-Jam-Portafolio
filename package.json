@@ -1,0 +1,19 @@
+{
+  "name": "landingapp",
+  "version": "1.0.0",
+  "description": "landing para mi portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdag274/Space-Jam-Portafolio.git"
+  },
+  "author": "Jose Aguilera <jdag274@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdag274/Space-Jam-Portafolio/issues"
+  },
+  "homepage": "https://github.com/jdag274/Space-Jam-Portafolio#readme"
+}
